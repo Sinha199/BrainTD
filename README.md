@@ -6,3 +6,8 @@ A deep learning model that detects the presence of the tumor from the MRI images
 
 ![No](https://github.com/Sinha199/BrainTD/blob/master/results/__results___20_0.png)
 ![Yes](https://github.com/Sinha199/BrainTD/blob/master/results/__results___20_1.png)
+
+### Model Accuracy.
+
+![Loss](https://github.com/Sinha199/BrainTD/blob/master/results/__results___30_0.png)
+![Accuracy](https://github.com/Sinha199/BrainTD/blob/master/results/__results___30_1.png)
